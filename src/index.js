@@ -4,3 +4,5 @@ export {
   scaleNotes,
 } from 'lib/selection'
 export { default } from 'components/Fretboard'
+
+//test
